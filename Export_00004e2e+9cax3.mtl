@@ -1,0 +1,287 @@
+﻿
+newmtl material0
+Ka 0.3 0.3 0.3
+Kd 1 0 0
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material1
+Ka 0.3 0.3 0.3
+Kd 0.1843137 0.4588235 0.7098039
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material2
+Ka 0.3 0.3 0.3
+Kd 0.2745098 0.5019608 0.3254902
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material3
+Ka 0.3 0.3 0.3
+Kd 0.2784314 0.5019608 0.3294118
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material4
+Ka 0.3 0.3 0.3
+Kd 0 0.5019608 0
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material5
+Ka 0.3 0.3 0.3
+Kd 0.7450981 0.7450981 0.7450981
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+
+
+newmtl material6
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_67.jpg
+map_Ka Export_00004e2e+9cax3_Texture_67.jpg
+
+
+newmtl material7
+Ka 0.3 0.3 0.3
+Kd 0.4666667 0.4666667 0.4666667
+Ks 1 1 1
+d 0.4666667
+Tr 0.5333333
+Ns 128.0
+illum 2
+
+
+newmtl material8
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_66.jpg
+map_Ka Export_00004e2e+9cax3_Texture_66.jpg
+
+
+newmtl material9
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_70.jpg
+map_Ka Export_00004e2e+9cax3_Texture_70.jpg
+
+
+newmtl material10
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_69.jpg
+map_Ka Export_00004e2e+9cax3_Texture_69.jpg
+
+
+newmtl material11
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_68.jpg
+map_Ka Export_00004e2e+9cax3_Texture_68.jpg
+
+
+newmtl material12
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_63.jpg
+map_Ka Export_00004e2e+9cax3_Texture_63.jpg
+
+
+newmtl material13
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_59.jpg
+map_Ka Export_00004e2e+9cax3_Texture_59.jpg
+
+
+newmtl material14
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_65.jpg
+map_Ka Export_00004e2e+9cax3_Texture_65.jpg
+
+
+newmtl material15
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_61.jpg
+map_Ka Export_00004e2e+9cax3_Texture_61.jpg
+
+
+newmtl material16
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_57.jpg
+map_Ka Export_00004e2e+9cax3_Texture_57.jpg
+
+
+newmtl material17
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_60.jpg
+map_Ka Export_00004e2e+9cax3_Texture_60.jpg
+
+
+newmtl material18
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_53.jpg
+map_Ka Export_00004e2e+9cax3_Texture_53.jpg
+
+
+newmtl material19
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_64.jpg
+map_Ka Export_00004e2e+9cax3_Texture_64.jpg
+
+
+newmtl material20
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_54.jpg
+map_Ka Export_00004e2e+9cax3_Texture_54.jpg
+
+
+newmtl material21
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_56.jpg
+map_Ka Export_00004e2e+9cax3_Texture_56.jpg
+
+
+newmtl material22
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_55.jpg
+map_Ka Export_00004e2e+9cax3_Texture_55.jpg
+
+
+newmtl material23
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_62.jpg
+map_Ka Export_00004e2e+9cax3_Texture_62.jpg
+
+
+newmtl material24
+Ka 0.3 0.3 0.3
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Tr 0
+Ns 128.0
+illum 2
+map_Kd Export_00004e2e+9cax3_Texture_58.jpg
+map_Ka Export_00004e2e+9cax3_Texture_58.jpg
+
+
